@@ -104,6 +104,6 @@ client.user.setGame(`ریکلام بـۆ مـن بـنیـرن`)
 
 
 
-client.login("");// تـۆکیـن بـوت 
+client.login("MTA4NDQxOTMyMzM3ODAxMjI5MA.GyKTir.futHxH96jvXGViwzr8Sfmd4cE_u7GFySzE2GOc");// تـۆکیـن بـوت 
 
 ///Code By MrTiGER///
